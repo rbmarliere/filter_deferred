@@ -7,5 +7,5 @@ npm install
 ### Run
 
 ```sh
-node index.js
+node main.js <func> <arg...>
 ```
